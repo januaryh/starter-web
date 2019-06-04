@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	J H.  january2392@gmail.com januaryhuang
     <name> -- <role> -- <twitter>
 
 # THANKS
