@@ -10,3 +10,8 @@ adding purpose
 Sample website with plenty of files for demos
 ##How to Contribute
 simple project
+
+
+##Copyright
+ Git.Training
+ 
